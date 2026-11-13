@@ -33,8 +33,8 @@ I'm still learning, experimenting, and improving my work in public. My goal isn'
 
 When I'm not coding, you'll probably find me:
 
-- Exploring JRPGs and story-driven games, especially *Final Fantasy VIII* and *NieR*
-- Enjoying anime—*Cowboy Bebop* is a favorite
+- Exploring JRPGs and story-driven games, Final Fantasy and *NieR* is cheering at the top
+- Watchin' Drama's, Anime's
 - Learning Japanese and Korean
 - Streaming games and helping create welcoming communities
 
