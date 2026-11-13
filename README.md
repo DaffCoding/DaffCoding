@@ -1,4 +1,3 @@
-
 # Hey, I'm Mario 👋
 
 **DaffCoding · Web Developer · 'For Those Who Come After **
@@ -8,6 +7,11 @@
 I'm a Boston-area developer growing my skills in software engineering, with a current focus on **web development, accessibility, and thoughtful user experiences**.
 
 My background in healthcare operations and customer-facing work has taught me to listen carefully, solve problems under pressure, and make complicated workflows easier to navigate. I bring those lessons into development: **start with the person using the product, then build something clear, dependable, and useful.**
+
+
+
+[Portfolio](https://mariogarcia-dev.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mariogarcia-dev/) · [Email](mailto:DaffCoding@gmail.com?subject=Project%20Inquiry)
+
 
 ## 🛠️ Tools & focus
 
@@ -44,4 +48,4 @@ Those interests also fuel my curiosity about interactive apps, game development,
 
 **I'm working toward a career in software engineering and enjoy connecting with people who care about accessible, useful technology.**
 
-Thanks for visiting and following along with the journey! 🌱
+Thanks for visiting and following along with the journey! 🌱\
