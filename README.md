@@ -3,7 +3,7 @@
 
 **DaffCoding · Web Developer · 'For Those Who Come After **
 
-> **My mission:** Build technology that helps the next person breathe a little easier.
+> **My mission:** To build so that helps the next person breathe a little easier.
 
 I'm a Boston-area developer growing my skills in software engineering, with a current focus on **web development, accessibility, and thoughtful user experiences**.
 
