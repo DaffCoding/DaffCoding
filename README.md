@@ -1,6 +1,6 @@
 # Hey, I'm Mario 👋
 
-**DaffCoding · Web Developer · 'For Those Who Come After **
+**DaffCoding · Web Developer · 'For Those Who Come After' **
 
 > **My mission:** To build so that helps the next person breathe a little easier.
 
