@@ -1,51 +1,94 @@
-# Hey, I'm Mario 👋
+Hey, I'm Mario 👋
 
-**DaffCoding · Web Developer · 'For Those Who Come After' **
+DaffCoding · Front-End Developer · Accessibility-Minded Development
 
-> **My mission:** To build so that helps the next person breathe a little easier.
+For Those Who Come After.
 
-I'm a Boston-area developer growing my skills in software engineering, with a current focus on **web development, accessibility, and thoughtful user experiences**.
+My mission: Build technology that helps the next person breathe a little easier.
 
-My background in healthcare operations and customer-facing work has taught me to listen carefully, solve problems under pressure, and make complicated workflows easier to navigate. I bring those lessons into development: **start with the person using the product, then build something clear, dependable, and useful.**
+I'm a front-end developer based in Boston, Massachusetts, focused on building accessible, responsive, and thoughtful digital experiences while expanding my skills toward full-stack software engineering.
 
+My background in healthcare operations and customer-facing roles has shaped how I approach development: listen carefully, solve problems under pressure, and make complex workflows easier to navigate.
 
+Start with the person using the product, then build something clear, dependable, and useful.
 
-[Portfolio](https://mariogarcia-dev.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mariogarcia-dev/) · [Email](mailto:DaffCoding@gmail.com?subject=Project%20Inquiry)
+Portfolio · LinkedIn · Email
 
+🛠️ Technical Skills & Focus
 
-## 🛠️ Tools & focus
+Languages: HTML, CSS, JavaScript
 
-- **Building with:** HTML, CSS, JavaScript, Git, GitHub, and VS Code
-- **Practicing:** Semantic HTML, responsive layouts, DOM manipulation, application logic, and accessible interactions
-- **Exploring next:** Full-stack development, application development, and game development
+Tools: Git, GitHub, VS Code
 
-## 🚀 What I'm working on
+Development: Semantic HTML, responsive layouts, DOM manipulation, and application logic
 
-- **[PomoDaff](https://github.com/DaffCoding/PomoDaff)** — A browser-based PomoDoro timer for focused work and study. Built with HTML, CSS, and vanilla JavaScript. *In development.*
-- **[Developer Portfolio](https://github.com/DaffCoding/MarioGarcia-Dev)** — A personal website I'm redesigning to showcase my projects, development process, and professional experience. *In development.*
-- **[DaffCoding Inn](https://github.com/DaffCoding/DaffCoding-Inn)** — A planned JRPG-inspired space for reflection, check-ins, and productivity. *Early planning.*
+Design principles: Accessibility, usability, and maintainable code
 
-I'm also strengthening my fundamentals through **[100Devs coursework](https://github.com/DaffCoding/100Devs-coursework)** and **[CodeWars practice](https://github.com/DaffCoding/CodeWars)**.
+Exploring next: Full-stack development, application development, and game development
 
-## 💙 What matters to me
+🚀 Featured Projects
 
-I care about software that **includes people rather than creating obstacles**. That means using semantic structure, designing for different abilities and devices, writing maintainable code, and making it clear what a user can do next.
+PomoDaff
 
-I'm still learning, experimenting, and improving my work in public. My goal isn't just to make something function—it's to make it genuinely helpful.
+A browser-based productivity timer evolving into a dashboard for focused work, study sessions, and progress tracking.
 
-## 🎮 Beyond the keyboard
+Built with: HTML, CSS, and vanilla JavaScript
+In active development.
 
-When I'm not coding, you'll probably find me:
+Developer Portfolio
 
-- Exploring JRPGs and story-driven games, Final Fantasy and *NieR* is cheering at the top
-- Watchin' Drama's, Anime's
-- Learning Japanese and Korean
-- Streaming games and helping create welcoming communities
+A personal website showcasing my projects, development process, technical skills, and professional experience.
 
-Those interests also fuel my curiosity about interactive apps, game development, and the small details that make digital spaces feel inviting.
+Built with: HTML, CSS, and JavaScript
+Currently undergoing a redesign.
 
----
+DaffCoding Inn
 
-**I'm working toward a career in software engineering and enjoy connecting with people who care about accessible, useful technology.**
+A planned JRPG-inspired digital space for reflection, productivity, and personal check-ins.
 
-Thanks for visiting and following along with the journey! 🌱\
+Early planning and design.
+
+📚 Continuous Learning
+
+I'm strengthening my software engineering fundamentals through structured coursework, problem-solving, and hands-on development.
+
+100Devs Coursework — Web development fundamentals and practical assignments.
+
+CodeWars — Programming challenges, problem-solving, and JavaScript practice.
+
+💙 My Approach to Development
+
+I believe technology should include people rather than create obstacles.
+
+My approach prioritizes:
+
+Accessible and semantic interfaces.
+
+Responsive, user-centered experiences.
+
+Readable and maintainable code.
+
+Thoughtful problem-solving.
+
+Continuous learning and improvement.
+
+My goal is not simply to make software function, but to make it genuinely helpful to the people who depend on it.
+
+🎮 Beyond the Keyboard
+
+Outside of development, you'll find me:
+
+Exploring JRPGs and story-driven games, particularly Final Fantasy and NieR.
+
+Watching anime and dramas.
+
+Learning Japanese and Korean.
+
+Streaming games and building welcoming communities.
+
+These interests inspire my curiosity about interactive experiences, application development, and game development.
+
+Open to connecting with developers, collaborators, and teams building accessible, meaningful technology.
+
+Thanks for stopping by! 🌱
+
